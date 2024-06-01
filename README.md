@@ -23,8 +23,7 @@ _Pada percobaan 1, menggunakan teknik konversi gambar ke grayscale. Grayscale ju
 
 ### Feature Selection
 
-_Jelaskan bagaimana kalian menemukan fitur yang paling tepat untuk digunakan. Jelaskan alasan kalian menggunakan fitur tersebut dan berikan alasan mengapa fitur tersebut diperlukan._
-
+_Jelaskan bagaimana kalian menemukan fitur yang paling tepat untuk digunakan. Jelaskan alasan kalian menggunakan fitur tersebut dan berikan alasan mengapa fitur tersebut diperlukan_
 
 ## Modeling
 
