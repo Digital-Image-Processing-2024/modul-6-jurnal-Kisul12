@@ -25,7 +25,6 @@ _Pada percobaan 1, menggunakan teknik konversi gambar ke grayscale. Grayscale ju
 
 _Jelaskan bagaimana kalian menemukan fitur yang paling tepat untuk digunakan. Jelaskan alasan kalian menggunakan fitur tersebut dan berikan alasan mengapa fitur tersebut diperlukan._
 
-_Fitur yang paling tepat untuk digunakan dipilih melalui proses seleksi fitur menggunakan metode ANOVA (Analysis of Variance) dengan skor fclassif. Proses ini memungkinkan pemilihan fitur-fitur yang paling signifikan dalam membedakan pola antara kelas yang berbeda. Fitur-fitur ini dipilih karena keberadaannya secara signifikan mempengaruhi hasil klasifikasi, tercermin dalam nilai-nilai skor fclassif yang tinggi. Fitur-fitur tersebut diperlukan untuk memberikan informasi yang paling relevan dan diskriminatif kepada model klasifikasi dalam membedakan pola yang unik dari setiap individu. Dengan demikian, pemilihan fitur yang tepat memastikan bahwa model yang dibangun dapat mengenali pola dengan akurasi dan keandalan yang tinggi, sambil juga menghindari overfitting dan kompleksitas yang berlebihan dalam model._
 
 ## Modeling
 
